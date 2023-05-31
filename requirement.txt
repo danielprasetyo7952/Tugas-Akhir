@@ -6,3 +6,4 @@ pandas==2.0.1
 seaborn==0.12.2
 sklearn==1.2.2
 pygad==3.0.1
+deap==1.3.3
