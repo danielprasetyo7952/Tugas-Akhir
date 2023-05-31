@@ -5,3 +5,4 @@ jupyter==1.0.0
 pandas==2.0.1
 seaborn==0.12.2
 sklearn==1.2.2
+pygad==3.0.1
