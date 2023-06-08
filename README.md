@@ -6,7 +6,7 @@ This repository that contains documentation of a research project on **Foreign E
 Methods that are implemented in the research project are:
 - LSTM Layer
 - Genetic Algorithms
-- Particle Swarm Optimization (Future Research)
+<!-- - Particle Swarm Optimization (Future Research) -->
 
 ## Usage
 1. To use this repository, simply clone it to your local machine
