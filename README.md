@@ -1,11 +1,10 @@
 # Tugas Akhir
-
-This repository that contains documentation of a research project on **Foreign Exchange or Cryptocurrency Forecasting**. This repository serves as a record of the work that has been done and provides valuable insights into the methods and techniques used in the research.
+This repository that contains documentation of a thesis on **Foreign Exchange Forecasting**. This repository serves as a record of the work that has been done and provides valuable insights into the methods and techniques used in the thesis.
 
 ## Methods
-Methods that are implemented in the research project are:
-- LSTM Layer
-- Genetic Algorithms
+Methods that are implemented in the thesis:
+- LSTM Model
+- Genetic Algorithms for Optimization
 <!-- - Particle Swarm Optimization (Future Research) -->
 
 ## Usage
