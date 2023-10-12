@@ -11,3 +11,8 @@
 - Slight change description in **Bab 3 : Sliding Window** (Add sliding window value)
 - Add **Bab 3 : Cross Validation** description
 - Slight change description in **Bab 3 : Base LSTM**
+
+## Kamis, 12 Oktober 2023
+- Change data from **JPY/IDR** to **SGD/IDR**, because the data have an anomaly
+- Slight change description in **Bab 1 : Latar Belakang** (5 years before)
+- Add new section **Bab 4 : Pembahasan** and the layout
