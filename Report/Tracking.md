@@ -15,4 +15,10 @@
 ## Kamis, 12 Oktober 2023
 - Change data from **JPY/IDR** to **SGD/IDR**, because the data have an anomaly
 - Slight change description in **Bab 1 : Latar Belakang** (5 years before)
-- Add new section **Bab 4 : Pembahasan** and the layout
+- Add new section **Bab 4 : Hasil Penelitian dan Pembahasan** and the layout
+
+## Jumat, 13 Oktober 2023
+- Change **Tabel 3.3 Skenario Pengujian**
+- Change layout of **Bab 4 : Hasil Penelitian dan Pembahasan**
+- Add description in **4.1 : Pengambilan Data** (Table data not yet included)
+- Add prolouge description in **4.4 : Optimasi Parameter LSTM**
