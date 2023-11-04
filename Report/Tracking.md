@@ -33,3 +33,10 @@
 - Add description and result in **Bab 4 : Sliding Window**
 - Add description and result in **Bab 4 : Split Data**
 - Add description and result in **Bab 4 : Cross Validation**
+
+## Saturday, 4 November 2023
+- Add description, code, and result in **Bab 4 : Implementasi LSTM**
+- Add code in **Bab 4 : Normalisasi**
+- Add code in **Bab 4 : Sliding Window**
+- Add code in **Bab 4 : Split Data**
+- Add code in **Bab 4 : Cross Validation**
