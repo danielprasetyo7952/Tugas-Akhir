@@ -3,7 +3,7 @@
 - Add new Table
 - Delete page **Lampiran**
 
-## Friday, 29 September 2023\
+## Friday, 29 September 2023
 - Add **Bab 2 : Cross-Validation** definition, but not Time Series Cross Validation (cannot find some paper/references that explain it)
 - Add **Bab 3 : Cross Validation** description
 - Slight change in **Abstract** (Total data)
@@ -40,3 +40,9 @@
 - Add code in **Bab 4 : Sliding Window**
 - Add code in **Bab 4 : Split Data**
 - Add code in **Bab 4 : Cross Validation**
+
+## Friday, 10 November 2023
+- Add new description in **Bab 4 : Normalisasi**
+- Add new description in **Bab 4 : Sliding Window**
+- Add new description in **Bab 4 : Split Data**
+- Add new description in **Bab 4 : Cross Validation**
