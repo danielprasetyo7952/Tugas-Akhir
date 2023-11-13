@@ -42,7 +42,11 @@
 - Add code in **Bab 4 : Cross Validation**
 
 ## Friday, 10 November 2023
-- Add new description in **Bab 4 : Normalisasi**
-- Add new description in **Bab 4 : Sliding Window**
-- Add new description in **Bab 4 : Split Data**
-- Add new description in **Bab 4 : Cross Validation**
+- Add code description in **Bab 4 : Normalisasi**
+- Add code description in **Bab 4 : Sliding Window**
+- Add code description in **Bab 4 : Split Data**
+- Add code description in **Bab 4 : Cross Validation**
+
+## Monday, 13 November 2023
+- Add code description in **Bab 4 : Implementasi LSTM**
+- Change GUI Design and instruction **Bab 3: Desain User Interface**
