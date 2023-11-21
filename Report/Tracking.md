@@ -49,10 +49,15 @@
 
 ## Monday, 13 November 2023
 - Add code description in **Bab 4 : Implementasi LSTM**
+- Add description and code in **Bab 4 : Optimasi Parameter LSTM** (Genetic Algorithm)
 - Change GUI Design and instruction **Bab 3: Desain User Interface**
 
 ## Monday, 20 November 2023
 - Add new section in **Bab 4 : Hasil Penelitian dan Pembahasan**
 - Split **Tabel 3.3 Skenario Pengujian** into 2 tables (Split and Cross Validation)
 - Slight change in **Bab 1: Rumusan Masalah** and **Bab 1: Tujuan Penelitian**
-<!-- - Add analysis and graph in **Bab 4 : Pengujian Menggunakan Data USD/IDR** -->
+
+## Tuesday, 21 November 2023
+- Add new code description in **Bab 4 : Optimasi Parameter LSTM** (Fitness function, Selection, Crossover, Mutation)
+- Add analysis, table, and graph in **Bab 4 : Pengujian Menggunakan Data USD/IDR (Split)**
+- Add layout to other in **Bab 4 : Hasil Pengujian**
