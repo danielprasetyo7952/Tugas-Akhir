@@ -61,3 +61,13 @@
 - Add new code description in **Bab 4 : Optimasi Parameter LSTM** (Fitness function, Selection, Crossover, Mutation)
 - Add analysis, table, and graph in **Bab 4 : Pengujian Menggunakan Data USD/IDR (Split)**
 - Add layout to other in **Bab 4 : Hasil Pengujian**
+
+## Wednesday, 22 November 2023
+- Add analysis, table, and graph in **Bab 4 : Pengujian Menggunakan Data USD/IDR (CV)**
+<!-- - Add analysis, table, and graph in **Bab 4 : Pengujian Menggunakan Data EUR/IDR** -->
+<!-- - Add analysis, table, and graph in **Bab 4 : Pengujian Menggunakan Data SGD/IDR** -->
+
+**<ins>Note :</ins>**
+I think all the descriptions in **Bab 4 : Hasil Pengujian** will be the same. There are 2 choices:
+- Finish it first until *SGD/IDR*, then consult about how to describe the results but have different descriptions in each section, or
+- Consult first about the *USD*, then continue with *EUR* and *SGD*
