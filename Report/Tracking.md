@@ -68,8 +68,10 @@
 ## Thursday, 23 November 2023
 - Add analysis, table, and graph in **Bab 4 : Pengujian Menggunakan Data EUR/IDR**
 
-<!-- ## Friday, 24 November 2023 -->
-<!-- - Add analysis, table, and graph in **Bab 4 : Pengujian Menggunakan Data SGD/IDR** -->
+## Friday, 24 November 2023
+- Add analysis, table, and graph in **Bab 4 : Pengujian Menggunakan Data SGD/IDR**
+- Add new sub-chapters in **Bab 4 : Hasil Penelitian dan Pembahasan** (I haven't decided to include it in final script, just want to add)
+- Add **Bab 5 : Penutup** and some layout
 
 **<ins>Note :</ins>**
 Finish it first until *SGD/IDR*, then consult about how to describe the results but have different descriptions in each section
