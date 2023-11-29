@@ -16,4 +16,4 @@ Methods that are implemented in the thesis:
 It should be noted that I am using **Python Version 3.10**, so if some dependencies cannot be installed then you should install **Python Version 3.10**
 
 ## Future Plan
-- [ ] Use Streamlit to create the model GUI (Under Development in Another Repository)
+- [x] Use Streamlit to create the model GUI -- [Repository](https://github.com/danielprasetyo7952/Tugas-Akhir-Preview)
