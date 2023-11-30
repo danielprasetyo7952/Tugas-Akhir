@@ -73,5 +73,9 @@
 - Add new sub-chapters in **Bab 4 : Hasil Penelitian dan Pembahasan** (I haven't decided to include it in final script, just want to add)
 - Add **Bab 5 : Penutup** and some layout
 
-**<ins>Note :</ins>**
-Finish it first until *SGD/IDR*, then consult about how to describe the results but have different descriptions in each section
+## Wednesday, 29 November 2023
+- Add new page **Halaman Pengesahan**, **Keaslian Dokumen**, **Publikasi**
+
+## Thursday, 30 November 2023
+- Add description and picture in **Bab 4 : Hasil Prediksi**
+- Add description in **Bab 5 : Penutup**
