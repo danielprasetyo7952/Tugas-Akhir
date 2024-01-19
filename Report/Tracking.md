@@ -79,3 +79,7 @@
 ## Thursday, 30 November 2023
 - Add description and picture in **Bab 4 : Hasil Prediksi**
 - Add description in **Bab 5 : Penutup**
+
+## Thursday, 19 January 2024
+- Change Thesis Title (Title cannot be abbreviated)
+- Add some comment that need to be fixed
