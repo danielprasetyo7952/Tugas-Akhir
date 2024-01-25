@@ -80,6 +80,9 @@
 - Add description and picture in **Bab 4 : Hasil Prediksi**
 - Add description in **Bab 5 : Penutup**
 
-## Thursday, 19 January 2024
+## Friday, 19 January 2024
 - Change Thesis Title (Title cannot be abbreviated)
-- Add some comment that need to be fixed
+- Add some comment in some sections that need to be fixed
+
+## Thursday, 25 January 2024
+- Add new theory about Activation Function in **Bab 2 : Landasan Teori**
