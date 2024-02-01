@@ -86,3 +86,6 @@
 
 ## Thursday, 25 January 2024
 - Add new theory about Activation Function in **Bab 2 : Landasan Teori**
+
+## Thursday, 1 February 2024
+- Add new theory about Outlier Detection in **Bab 2 : Landasan Teori**
