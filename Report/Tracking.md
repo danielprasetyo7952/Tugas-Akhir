@@ -89,3 +89,7 @@
 
 ## Thursday, 1 February 2024
 - Add new theory about Outlier Detection in **Bab 2 : Landasan Teori**
+
+## Saturday, 3 February 2024
+- Change Preprocessing and GA flowchart in **Bab 3 : Metode Penelitian**
+- Add new description about *Outlier Detection* in **Bab 3 : Preprocessing**
