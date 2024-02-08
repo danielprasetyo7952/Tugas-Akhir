@@ -93,3 +93,8 @@
 ## Saturday, 3 February 2024
 - Change Preprocessing and GA flowchart in **Bab 3 : Metode Penelitian**
 - Add new description about *Outlier Detection* in **Bab 3 : Preprocessing**
+
+## Thursday, 8 February 2024
+- Add new description about *Outlier Detection* in **Bab 4**
+- Change all the result and description in **Bab 4**
+- Add new section **Lampiran** and some content in it
