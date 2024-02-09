@@ -103,4 +103,5 @@
 - Change some description in **Abstract**
 - Add new section **Bab 4 : Arsitektur Optimal**
 - Add new point of conclusion and suggestion in **Bab 5**
-- Add new description about all method in GA (Population, Fitness, Selection, Crossover, Mutation) in **Bab 3**
+- Add description about all method (data and step) in GA (Population, Fitness, Selection, Crossover, Mutation) in **Bab 3**
+- Add new content in **Lampiran** (GA-LSTM result [Best chromosome and fitness, Rerun result])
