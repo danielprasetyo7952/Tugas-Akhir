@@ -103,3 +103,4 @@
 - Change some description in **Abstract**
 - Add new section **Bab 4 : Arsitektur Optimal**
 - Add new point of conclusion and suggestion in **Bab 5**
+- Add new description about all method in GA (Population, Fitness, Selection, Crossover, Mutation) in **Bab 3**
