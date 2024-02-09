@@ -98,3 +98,8 @@
 - Add new description about *Outlier Detection* in **Bab 4**
 - Change all the result and description in **Bab 4**
 - Add new section **Lampiran** and some content in it
+
+## Friday, 9 February 2024
+- Change some description in **Abstract**
+- Add new section **Bab 4 : Arsitektur Optimal**
+- Add new point of conclusion and suggestion in **Bab 5**
