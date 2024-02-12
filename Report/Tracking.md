@@ -105,3 +105,6 @@
 - Add new point of conclusion and suggestion in **Bab 5**
 - Add description about all method (data and step) in GA (Population, Fitness, Selection, Crossover, Mutation) in **Bab 3**
 - Add new content in **Lampiran** (GA-LSTM result [Best chromosome and fitness, Rerun result])
+
+## Monday, 12 February 2024
+- Lengthen paragraphs for GA (Population, Fitness, Selection, Crossover, Mutation) in **Bab 3**
