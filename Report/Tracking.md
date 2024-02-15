@@ -108,3 +108,7 @@
 
 ## Monday, 12 February 2024
 - Lengthen paragraphs for GA (Population, Fitness, Selection, Crossover, Mutation) in **Bab 3**
+
+## Tuesday, 13 February 2024
+- Add description about Fitness Function in **Bab 3 : GA-LSTM**
+- Add description about Data in **Bab 3 : Deskripsi Data**
